@@ -1,3 +1,7 @@
+# Dashboard:
+
+![image](https://github.com/user-attachments/assets/1556d7f3-a3e6-414e-bfd4-0a7faf77c765)
+
 # Problem Statement:
 
 The HR department is responsible for monitoring and managing various aspects of employee data to ensure the organization to maintain a healthy workforce. However, there is a lack of clear performance indicator to track and analyze key HR metrics. Therefore, there is a need to design and implement a set of KPIs to address the following points.
@@ -34,6 +38,4 @@ To identify employee's educational qualification.
 
 Identifying the employee's according to their age groups and gender
 
-# Dashboard:
 
-![image](https://github.com/user-attachments/assets/1556d7f3-a3e6-414e-bfd4-0a7faf77c765)
